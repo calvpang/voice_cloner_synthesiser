@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+.vscode
+
+recording_1.wav
+calvin_embeddings
+.mp3
